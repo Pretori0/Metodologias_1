@@ -1,0 +1,5 @@
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_3\bin\Debug\TP_3.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_3\bin\Debug\TP_3.pdb
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_3\obj\Debug\TP_3.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_3\obj\Debug\TP_3.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_3\obj\Debug\TP_3.pdb
