@@ -1,0 +1,10 @@
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\Metodologias_1\bin\Debug\Metodologias_1.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\Metodologias_1\bin\Debug\Metodologias_1.pdb
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.pdb
+E:\Metodologias_1\Metodologias_1\bin\Debug\Metodologias_1.exe
+E:\Metodologias_1\Metodologias_1\bin\Debug\Metodologias_1.pdb
+E:\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.csprojResolveAssemblyReference.cache
+E:\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.exe
+E:\Metodologias_1\Metodologias_1\obj\Debug\Metodologias_1.pdb
