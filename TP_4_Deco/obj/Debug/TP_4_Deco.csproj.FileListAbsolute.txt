@@ -1,0 +1,10 @@
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_4_Deco\bin\Debug\TP_4_Deco.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_4_Deco\bin\Debug\TP_4_Deco.pdb
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.pdb
+E:\Metodologias_1\TP_4_Deco\bin\Debug\TP_4_Deco.exe
+E:\Metodologias_1\TP_4_Deco\bin\Debug\TP_4_Deco.pdb
+E:\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.csprojResolveAssemblyReference.cache
+E:\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.exe
+E:\Metodologias_1\TP_4_Deco\obj\Debug\TP_4_Deco.pdb

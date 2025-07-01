@@ -1,0 +1,10 @@
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5_Command\bin\Debug\TP_5_Command.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5_Command\bin\Debug\TP_5_Command.pdb
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.pdb
+E:\Metodologias_1\TP_5_Command\bin\Debug\TP_5_Command.exe
+E:\Metodologias_1\TP_5_Command\bin\Debug\TP_5_Command.pdb
+E:\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.csprojResolveAssemblyReference.cache
+E:\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.exe
+E:\Metodologias_1\TP_5_Command\obj\Debug\TP_5_Command.pdb

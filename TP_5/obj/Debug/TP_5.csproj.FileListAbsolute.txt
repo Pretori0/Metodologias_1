@@ -1,0 +1,5 @@
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5\bin\Debug\TP_5.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5\bin\Debug\TP_5.pdb
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5\obj\Debug\TP_5.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5\obj\Debug\TP_5.exe
+C:\Users\bcn\Documents\SharpDevelop Projects\Metodologias_1\TP_5\obj\Debug\TP_5.pdb
